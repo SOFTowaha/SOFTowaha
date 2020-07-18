@@ -4,7 +4,7 @@ I have been walking on the path of technology for the last 12 years, and what I 
 
 I am currently working as a Data Scientist, and I believe I can devote to Data Science for the next ten years, and I will not be bored about it.
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fpolatengin.polatengin%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsoftowaha.softowaha%2Freadme)
 
 - 🤵 Pronouns: He/Him/His
 
@@ -63,6 +63,10 @@ Data Science, Drawing, Technical Writing, Programming, Electronics, Drones, Ardu
 
 ## 📫 How to reach me
 Email, Twitter and Instagram
+
+[![Linkedin Badge](https://img.shields.io/badge/SOFTowaha-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://ca.linkedin.com/in/softowaha)
+
+[![Twitter Badge](https://img.shields.io/badge/SOFTowaha-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/SOFTowaha/)
 
 ## ⚡ Fun fact
 I paint NSFW arts and sell to help covid-19 patietns.
