@@ -59,7 +59,7 @@ img src="https://github.com/github/explore/blob/master/topics/kubernetes/kuberne
 <img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
 ---> 
 
-## 💻 Githib Stat
+## 💻 Github Stat
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=softowaha&show_icons=true&count_private=1" alt="danielgtaylor" /></a></p>
 
 ## 💬 Ask me about
