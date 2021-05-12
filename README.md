@@ -32,33 +32,11 @@ Drawing oil paint, color theory and facial expression learning. 🦮
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="32" /> 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="32" /> 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="32" /> 
-will add more
-<!--- later sucker 
-<img src="https://github.com/github/explore/blob/master/topics/archlinux/archlinux.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/actions/actions.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/azure/azure.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <
-img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <
-img src="https://github.com/github/explore/blob/master/topics/kubernetes/kubernetes.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/nginx/nginx.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/powershell/powershell.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/redis/redis.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/sass/sass.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/typescript/typescript.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/webpack/webpack.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
----> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" /> 
 
 ## 💻 Github Stat
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=softowaha&show_icons=true&count_private=1" alt="danielgtaylor" /></a></p>
