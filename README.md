@@ -27,11 +27,11 @@ Drawing oil paint, color theory and facial expression learning. 🦮
 ## 🧠 I know 
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" />
-<img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32" /> 
-<img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="32" /> 
 will add more
 <!--- later sucker 
 <img src="https://github.com/github/explore/blob/master/topics/archlinux/archlinux.png?raw=true" height="32" />
