@@ -26,17 +26,7 @@ Drawing oil paint, color theory and facial expression learning. 🦮
 
 ## 🧠 I know 
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="32" /> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" /> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" /> 
 
 ## 💻 Github Stat
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=softowaha&show_icons=true&count_private=1" alt="danielgtaylor" /></a></p>
