@@ -25,7 +25,8 @@ Volunteer projects on any non-profit organization and art community. ❤️
 Drawing oil paint, color theory and facial expression learning. 🦮
 
 ## 🧠 I know 
-<img src="https://github.com/github/explore/blob/master/topics/bash/bash.png?raw=true" height="32" /> 
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="32" /> 
 <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" />
 <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
 <img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> 
