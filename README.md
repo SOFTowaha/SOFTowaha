@@ -70,7 +70,7 @@ Languages & Technologies: `SQL`, `JavaScript`, `NoSql`, `AWS`, `Bash`, `Python` 
 [**Data Analyst**](https://hexit.com.bd) • Full-time • California, US\
 Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud` \
 <br/>
-
+<br/>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sci%20Kit%20Learn%2C%20TensorFlow-green)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20NumPy%2C%20SQL-orange)
