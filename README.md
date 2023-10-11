@@ -29,6 +29,3 @@ Abra-data-dabra! ✨
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20NumPy%2C%20SQL-orange)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib%2C%20Seaborn%2C%20Plotly-purple)
 ![Statistics](https://img.shields.io/badge/Statistics-Statistical%20Analysis%2C%20Hypothesis%20Testing-yellow)
-<p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/SOFTowaha/SOFTowaha/output/github-contribution-grid-snake-dark.svg">
-</p>
