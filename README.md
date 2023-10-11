@@ -34,42 +34,42 @@ These are my latest workplaces:
 **University of Essex** \
 [**Software Developer (Data Integration)**](https://www.essex.ac.uk/people/FARUK31407) • Full-time • Colchester, UK\
 Languages & Technologies: `C#`, `Bash`, `.NET`, `SQL`, `Windows Server` \
-<br/>
+<br/> \
 
 [<img align="left" height="100px" width="100px" alt="Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/1.png?raw=true"/>](https://www.bkosoft.ch/)
 
 **BkoSoft** \
 [**Software Engineer**](https://www.bkosoft.ch/en/About-us) • Full-time • Zurich, CH\
 Languages & Technologies: `C#`, `SQL`, `.NET`, `Razor` \
-<br/>
+<br/> \
 
 [<img align="left" height="100px" width="100px" alt="Meta" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/5.png?raw=true"/>](https://www.meta.com/)
 
 **Meta/Facebook** \
 [**Technical Investigator**](https://www.facebook.com/soft.me.uk) • Full-time • London, UK\
 Languages & Technologies: `SQL`, `JavaScript`, `Haskell`, `Hack`, `Unidash` \
-<br/>
+<br/> \
 
 [<img align="left" height="100px" width="100px" alt="Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/3.png?raw=true"/>](https://www.evolok.com/)
 
 **Evolok Ltd** \
 [**Java Developer**](https://www.evolok.com/about) • Full-time • London, UK\
 Languages & Technologies: `Java`, `SQL`, `MongoDB`, `Spring Boot` \
-<br/>
+<br/> \
 
 [<img align="left" height="100px" width="100px" alt="Meta" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/2.png?raw=true"/>](https://authlab.io/)
 
 **AuthLab Ltd** \
 [**Data Scientist**](https://authlab.io/about/#team) • Full-time • Sylhet, BD\
 Languages & Technologies: `SQL`, `JavaScript`, `NoSql`, `AWS`, `Bash`, `Python` \
-<br/>
+<br/> \
 
 [<img align="left" height="100px" width="100px" alt="Meta" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/4.png?raw=true"/>](https://hexit.com.bd)
 
 **HEXit Ltd** \
 [**Data Analyst**](https://hexit.com.bd) • Full-time • California, US\
 Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud` \
-<br/>
+<br/> \
 <br/>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sci%20Kit%20Learn%2C%20TensorFlow-green)
