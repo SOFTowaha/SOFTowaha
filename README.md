@@ -1,5 +1,4 @@
 # 👋 Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! 🌌
-
 ### About Me
 Hello! I'm **Syed Omar Faruk Towaha**—a Data Scientist and Software Wizard based in the UK. I’m passionate about exploring intricate data landscapes, crafting powerful code, and uncovering insightful solutions. 
 
@@ -73,7 +72,6 @@ Languages & Technologies: `SQL`, `JavaScript`, `NoSQL`, `AWS`, `Bash`, `Python`
 [**Data Analyst**](https://hexit.com.bd) • Full-time • California, US  
 Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud`  
 <br>
-
 ---
 
 ### 🛠️ Technologies & Tools
