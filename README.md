@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi.gif" alt="Rocket" width="40" height="40"/> Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/uni.gif" alt="Rocket" width="40" height="40"/></h3>
+  <h3> <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi.gif" alt="Rocket" width="40" height="40"/> Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi-mi.gif" alt="Rocket" width="40" height="40"/> </h3>
   
 </div>
 
