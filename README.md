@@ -72,6 +72,7 @@ Languages & Technologies: `SQL`, `JavaScript`, `NoSQL`, `AWS`, `Bash`, `Python`
 [**Data Analyst**](https://hexit.com.bd) • Full-time • California, US  
 Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud`  
 <br>
+
 ---
 
 ### 🛠️ Technologies & Tools
