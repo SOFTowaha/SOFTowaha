@@ -1,4 +1,4 @@
-# 👋 Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! 🌌
+# <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi.gif" alt="Rocket" width="40" height="40"/> Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/uni.gif" alt="Rocket" width="40" height="40"/> 
 ### About Me
 Hello! I'm **Syed Omar Faruk Towaha**—a Data Scientist and Software Wizard based in the UK. I’m passionate about exploring intricate data landscapes, crafting powerful code, and uncovering insightful solutions. 
 
@@ -6,23 +6,23 @@ My GitHub repositories capture my cosmic journey through data science, from Pyth
 
 ---
 
-### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/rocket.gif" alt="Rocket" width="30" height="30"/> Journey Through My GitHub Spellbook
+### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/rocket.gif" alt="Rocket" width="40" height="40"/> Journey Through My GitHub Spellbook
 
-🔍 **Data Exploration & Analysis**  
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/de.gif" alt="Rocket" width="30" height="30"/> **Data Exploration & Analysis**  
 Dive deep into data with projects that unearth hidden treasures of information. I'm committed to extracting insights that drive informed decision-making.
 
-📈 **Machine Learning Alchemy**  
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/ml.gif" alt="Rocket" width="30" height="30"/> **Machine Learning Alchemy**  
 Discover the art of training algorithms and models that learn and adapt. From neural networks to predictive analytics, my projects aim to demystify AI and ML.
 
-📊 **Data Visualization Sorcery**  
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/dv.gif" alt="Rocket" width="30" height="30"/> **Data Visualization Sorcery**  
 Experience data come to life through mesmerizing dashboards, interactive charts, and dynamic graphs. Each visualization narrates a unique, data-driven story.
 
-📉 **Statistical Insights**  
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/st.gif" alt="Rocket" width="30" height="30"/> **Statistical Insights**  
 Journey through projects that employ statistical analysis and hypothesis testing to turn raw data into meaningful conclusions.
 
 ---
 
-### 🌐 Connect and Collaborate
+### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/globe.gif" alt="Rocket" width="40" height="40"/> Connect and Collaborate
 
 Join me in harnessing the power of data! Whether you’re a fellow data enthusiast, an aspiring analyst, or simply curious, I’m always open to collaboration. Let’s explore the depths of data together!
 
@@ -34,7 +34,7 @@ Join me in harnessing the power of data! Whether you’re a fellow data enthusia
 
 ---
 
-### 💼 Work Experience
+### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/work.gif" alt="Rocket" width="40" height="40"/> Work Experience
 These are my recent workplaces:
 
 [<img align="left" height="100px" width="100px" alt="University of Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/6.png?raw=true"/>](https://www.essex.ac.uk/)  
