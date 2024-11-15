@@ -26,11 +26,11 @@ Journey through projects that employ statistical analysis and hypothesis testing
 
 Join me in harnessing the power of data! Whether you’re a fellow data enthusiast, an aspiring analyst, or simply curious, I’m always open to collaboration. Let’s explore the depths of data together!
 
-🔮 Unlock more secrets and expand your knowledge by visiting my website at [soft.me.uk](https://www.soft.me.uk) or connecting with me on [LinkedIn](https://www.linkedin.com/in/sof/). Together, we can create, learn, and shape reality through the magic of data and code.
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/vio.gif" alt="Rocket" width="20" height="20"/>  Unlock more secrets and expand your knowledge by visiting my website at [soft.me.uk](https://www.soft.me.uk) or connecting with me on [LinkedIn](https://www.linkedin.com/in/sof/). Together, we can create, learn, and shape reality through the magic of data and code.
 
-🌟 Thank you for joining me on this mystical journey through my GitHub. In the world of data science, every line of code is a spell waiting to be cast. May your commits be swift, your analyses insightful, and your transformations as magical as the stars.
+<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/star.gif" alt="Rocket" width="20" height="20"/>  Thank you for joining me on this mystical journey through my GitHub. In the world of data science, every line of code is a spell waiting to be cast. May your commits be swift, your analyses insightful, and your transformations as magical as the stars.
 
-**Abra-data-dabra!** ✨
+**Abra-data-dabra!** <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/air.gif" alt="Rocket" width="30" height="30"/> 
 
 ---
 
@@ -75,7 +75,7 @@ Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud`
 
 ---
 
-### 🛠️ Technologies & Tools
+### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/tech.gif" alt="Rocket" width="40" height="40"/>  Technologies & Tools
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sci%20Kit%20Learn%2C%20TensorFlow-green)  
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20NumPy%2C%20SQL-orange)  
