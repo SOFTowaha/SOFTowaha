@@ -7,7 +7,7 @@ My GitHub repositories capture my cosmic journey through data science, from Pyth
 ---
 
 ### 🚀 Journey Through My GitHub Spellbook
-
+![Data Exploration](https://raw.githubusercontent.com/SOFTowaha/SOFTowaha/main/animated-icons/data-exploration.svg) <br>
 🔍 **Data Exploration & Analysis**  
 Dive deep into data with projects that unearth hidden treasures of information. I'm committed to extracting insights that drive informed decision-making.
 
