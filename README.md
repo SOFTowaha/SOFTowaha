@@ -46,19 +46,21 @@ These are my recent workplaces:
 **Memorial University of Newfoundland**  
 [**PhD Researcher**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
 Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`
-<br>
+<br><br>
 
 [<img align="left" height="100px" width="100px" alt="Canadian Space Agency" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/10.png?raw=true"/>](https://www.asc-csa.gc.ca)  
 **Canadian Space Agency**  
 [**Data Scientist (Researcher)**](https://www.asc-csa.gc.ca) • Full-time • Ottawa, Ontario, CA  
 Languages & Technologies: `Python`, `Bash`, `SQL` 
-<br>
+<br><br>
+
 
 [<img align="left" height="100px" width="100px" alt="University of Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/6.png?raw=true"/>](https://www.essex.ac.uk/)  
 **University of Essex**  
 [**Software Developer (Data Integration)**](https://www.essex.ac.uk/people/FARUK31407) • Full-time • Colchester, UK  
 Languages & Technologies: `C#`, `Bash`, `.NET`, `SQL`, `Windows Server`  
 <br>
+
 
 [<img align="left" height="100px" width="100px" alt="BkoSoft" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/1.png?raw=true"/>](https://www.bkosoft.ch/)  
 **BkoSoft**  
