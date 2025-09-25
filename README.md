@@ -4,7 +4,7 @@
 </div>
 
 ### About Me
-Hello! I'm **Syed Omar Faruk Towaha**—a Data Scientist and Software Wizard based in the UK. I’m passionate about exploring intricate data landscapes, crafting powerful code, and uncovering insightful solutions. 
+Hello! I'm **Syed Omar Faruk Towaha**—a Data Scientist and Software Wizard based in Canada. I’m passionate about exploring intricate data landscapes, crafting powerful code, and uncovering insightful solutions. 
 
 My GitHub repositories capture my cosmic journey through data science, from Python magic that unveils hidden data insights to visually stunning data narratives. Each project serves as a portal into the captivating world of data.
 
@@ -40,6 +40,19 @@ Join me in harnessing the power of data! Whether you’re a fellow data enthusia
 
 ### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/work.gif" alt="Rocket" width="40" height="40"/> Work Experience
 These are my recent workplaces:
+
+
+[<img align="left" height="100px" width="100px" alt="Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/11.png?raw=true"/>](https://www.mun.ca)  
+**Memorial University of Newfoundland**  
+[**PhD Researcher**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
+Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`
+<br>
+
+[<img align="left" height="100px" width="100px" alt="Canadian Space Agency" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/10.png?raw=true"/>](https://www.asc-csa.gc.ca)  
+**Canadian Space Agency**  
+[**Data Scientist (Researcher)**](https://www.asc-csa.gc.ca) • Full-time • Ottawa, Ontario, CA  
+Languages & Technologies: `Python`, `Bash`, `SQL` 
+<br>
 
 [<img align="left" height="100px" width="100px" alt="University of Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/6.png?raw=true"/>](https://www.essex.ac.uk/)  
 **University of Essex**  
