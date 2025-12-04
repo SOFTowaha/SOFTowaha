@@ -41,6 +41,11 @@ Join me in harnessing the power of data! Whether you’re a fellow data enthusia
 ### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/work.gif" alt="Rocket" width="40" height="40"/> Work Experience
 These are my recent workplaces:
 
+[<img align="left" height="100px" width="100px" alt="CAIR - Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/12.png?raw=true"/>]([https://www.mun.ca](https://www.mun.ca/research/cair/who-we-are/))  
+**Centre for Analytics, Informatics and Research (CAIR)**  
+[**Project Manager Lead**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
+Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`, `Quantum Computing`, ` High Performance Computing`, `Research Data Analysis`
+<br><br>
 
 [<img align="left" height="100px" width="100px" alt="Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/11.png?raw=true"/>](https://www.mun.ca)  
 **Memorial University of Newfoundland**  
