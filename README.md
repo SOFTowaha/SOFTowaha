@@ -40,62 +40,87 @@ Join me in harnessing the power of data! Whether you’re a fellow data enthusia
 
 ### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/work.gif" alt="Rocket" width="40" height="40"/> Work Experience
 These are my recent workplaces:
-
-[<img align="left" height="100px" width="100px" alt="CAIR - Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/12.png?raw=true"/>]([https://www.mun.ca](https://www.mun.ca/research/cair/who-we-are/))  
+[<img align="left" height="100px" width="100px" alt="CAIR - Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/12.png?raw=true"/>](https://www.mun.ca/research/cair/who-we-are/)  
 **Centre for Analytics, Informatics and Research (CAIR)**  
 [**Project Manager Lead**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`, `Quantum Computing`, ` High Performance Computing`, `Research Data Analysis`
-<br><br>
+Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`, `Quantum Computing`, `High Performance Computing`, `Research Data Analysis`  
+
+---
 
 [<img align="left" height="100px" width="100px" alt="Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/11.png?raw=true"/>](https://www.mun.ca)  
 **Memorial University of Newfoundland**  
 [**PhD Researcher**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`
-<br><br>
+Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`  
+
+---
 
 [<img align="left" height="100px" width="100px" alt="Canadian Space Agency" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/10.png?raw=true"/>](https://www.asc-csa.gc.ca)  
 **Canadian Space Agency**  
 [**Data Scientist (Researcher)**](https://www.asc-csa.gc.ca) • Full-time • Ottawa, Ontario, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL` 
-<br><br>
+Languages & Technologies: `Python`, `Bash`, `SQL`  
 
+---
 
 [<img align="left" height="100px" width="100px" alt="University of Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/6.png?raw=true"/>](https://www.essex.ac.uk/)  
 **University of Essex**  
 [**Software Developer (Data Integration)**](https://www.essex.ac.uk/people/FARUK31407) • Full-time • Colchester, UK  
 Languages & Technologies: `C#`, `Bash`, `.NET`, `SQL`, `Windows Server`  
-<br>
 
+---
 
 [<img align="left" height="100px" width="100px" alt="BkoSoft" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/1.png?raw=true"/>](https://www.bkosoft.ch/)  
 **BkoSoft**  
 [**Software Engineer**](https://www.bkosoft.ch/en/About-us) • Full-time • Zurich, CH  
 Languages & Technologies: `C#`, `SQL`, `.NET`, `Razor`  
-<br>
+
+---
 
 [<img align="left" height="100px" width="100px" alt="Meta" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/5.png?raw=true"/>](https://www.meta.com/)  
 **Meta/Facebook**  
 [**Technical Investigator**](https://www.facebook.com/soft.me.uk) • Full-time • London, UK  
 Languages & Technologies: `SQL`, `JavaScript`, `Haskell`, `Hack`, `Unidash`  
-<br>
+
+---
 
 [<img align="left" height="100px" width="100px" alt="Evolok Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/3.png?raw=true"/>](https://www.evolok.com/)  
 **Evolok Ltd**  
 [**Java Developer**](https://www.evolok.com/about) • Full-time • London, UK  
 Languages & Technologies: `Java`, `SQL`, `MongoDB`, `Spring Boot`  
-<br>
+
+---
 
 [<img align="left" height="100px" width="100px" alt="AuthLab Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/2.png?raw=true"/>](https://authlab.io/)  
 **AuthLab Ltd**  
 [**Data Scientist**](https://authlab.io/about/#team) • Full-time • Sylhet, BD  
 Languages & Technologies: `SQL`, `JavaScript`, `NoSQL`, `AWS`, `Bash`, `Python`  
-<br>
+
+---
 
 [<img align="left" height="100px" width="100px" alt="HEXit Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/4.png?raw=true"/>](https://hexit.com.bd)  
 **HEXit Ltd**  
 [**Data Analyst**](https://hexit.com.bd) • Full-time • California, US  
 Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud`  
-<br>
+
+---
+
+[<img align="left" height="100px" width="100px" alt="Apple" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/14.png?raw=true"/>](https://apple.com)  
+**Apple**  
+[**Product Design Engineering Intern**](https://apple.com) • Full-time • Shanghai, CN  
+Languages & Technologies: `Data Modeling`, `Design Philosophy`, `Python`  
+
+---
+
+[<img align="left" height="100px" width="100px" alt="Mozilla" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/13.png?raw=true"/>](https://mozilla.org)  
+**Mozilla Inc**  
+[**Rust Engineer**](https://mozilla.org) • Full-time • California, US  
+Languages & Technologies: `Rust`, `JavaScript`, `Python`  
+
+---
+
+[<img align="left" height="100px" width="100px" alt="Google" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/15.png?raw=true"/>](https://google.com)  
+**Google**  
+[**Software Engineer Intern**](https://google.com) • Full-time • San Francisco, US  
+Languages & Technologies: `Data Visualization`, `Data Science`, `Data Analysis`, `Google Cloud`  
 
 ---
 
