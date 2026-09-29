@@ -1,171 +1,56 @@
-<div align="center">
-  <h3> <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi.gif" alt="Rocket" width="40" height="40"/> Greetings, fellow data enthusiasts and curious minds! Welcome to my GitHub universe! <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/hi-mi.gif" alt="Rocket" width="40" height="40"/> </h3>
-  
-</div>
+# Syed Omar Faruk Towaha
 
-### About Me
-Hello! I'm **Syed Omar Faruk Towaha**—a Data Scientist and Software Wizard based in Canada. I’m passionate about exploring intricate data landscapes, crafting powerful code, and uncovering insightful solutions. 
-
-My GitHub repositories capture my cosmic journey through data science, from Python magic that unveils hidden data insights to visually stunning data narratives. Each project serves as a portal into the captivating world of data.
+**Data Scientist · PhD Researcher · Project Manager Lead at CAIR, Memorial University of Newfoundland**
+St. John's, NL, Canada · [soft.me.uk](https://www.soft.me.uk) · [LinkedIn](https://www.linkedin.com/in/sof/)
 
 ---
 
-### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/rocket.gif" alt="Rocket" width="40" height="40"/> Journey Through My GitHub Spellbook
+## About
 
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/de.gif" alt="Rocket" width="30" height="30"/> **Data Exploration & Analysis**  
-Dive deep into data with projects that unearth hidden treasures of information. I'm committed to extracting insights that drive informed decision-making.
+I lead applied machine learning and research computing projects at the Centre for Analytics, Informatics and Research (CAIR) at Memorial University of Newfoundland, where I am also a PhD researcher. My work sits at the intersection of data science, computer vision and high-performance computing: turning large research datasets into reliable, reproducible tools.
 
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/ml.gif" alt="Rocket" width="30" height="30"/> **Machine Learning Alchemy**  
-Discover the art of training algorithms and models that learn and adapt. From neural networks to predictive analytics, my projects aim to demystify AI and ML.
+Previously, I worked as a data scientist at the Canadian Space Agency, a technical investigator at Meta, and a software engineer across the UK, Switzerland and North America.
 
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/dv.gif" alt="Rocket" width="30" height="30"/> **Data Visualization Sorcery**  
-Experience data come to life through mesmerizing dashboards, interactive charts, and dynamic graphs. Each visualization narrates a unique, data-driven story.
-
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/st.gif" alt="Rocket" width="30" height="30"/> **Statistical Insights**  
-Journey through projects that employ statistical analysis and hypothesis testing to turn raw data into meaningful conclusions.
+**Current focus**
+- Segmentation of remotely sensed (RPAS/drone) imagery for habitat mapping
+- ML pipelines on HPC clusters, including GPU inference at scale
+- Research software engineering and coding standards for research teams
 
 ---
 
-### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/globe.gif" alt="Rocket" width="40" height="40"/> Connect and Collaborate
+## Skills
 
-Join me in harnessing the power of data! Whether you’re a fellow data enthusiast, an aspiring analyst, or simply curious, I’m always open to collaboration. Let’s explore the depths of data together!
-
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/vio.gif" alt="Rocket" width="20" height="20"/>  Unlock more secrets and expand your knowledge by visiting my website at [soft.me.uk](https://www.soft.me.uk) or connecting with me on [LinkedIn](https://www.linkedin.com/in/sof/). Together, we can create, learn, and shape reality through the magic of data and code.
-
-<img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/star.gif" alt="Rocket" width="20" height="20"/>  Thank you for joining me on this mystical journey through my GitHub. In the world of data science, every line of code is a spell waiting to be cast. May your commits be swift, your analyses insightful, and your transformations as magical as the stars.
-
-**Abra-data-dabra!** <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/air.gif" alt="Rocket" width="30" height="30"/> 
-
----
-
-### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/work.gif" alt="Rocket" width="40" height="40"/> Work Experience
-These are my recent workplaces:
-[<img align="left" height="100px" width="100px" alt="CAIR - Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/12.png?raw=true"/>](https://www.mun.ca/research/cair/who-we-are/)  
-**Centre for Analytics, Informatics and Research (CAIR)**  
-[**Project Manager Lead**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`, `Quantum Computing`, `High Performance Computing`, `Research Data Analysis`  
+| Area | Tools |
+|---|---|
+| **Machine learning & data science** | Python, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, R, MATLAB |
+| **Computer vision** | Image segmentation, remote sensing imagery, ONNX Runtime |
+| **Data visualization & statistics** | Matplotlib, Seaborn, Plotly, hypothesis testing, statistical modelling |
+| **Infrastructure & HPC** | Linux, Bash, Slurm/HPC, Docker, Podman, Kubernetes, AWS, Google Cloud, Azure |
+| **Software engineering** | Java, C#/.NET, C, Rust, JavaScript, PHP, REST APIs, Git |
+| **Data** | SQL, PostgreSQL, MongoDB |
+| **Testing & security** | PyTest, JUnit, CUnit, CMocka, Valgrind, Wireshark, Nmap, Metasploit, Certified Ethical Hacker (CEH) |
 
 ---
 
-[<img align="left" height="100px" width="100px" alt="Memorial University of Newfoundland" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/11.png?raw=true"/>](https://www.mun.ca)  
-**Memorial University of Newfoundland**  
-[**PhD Researcher**](https://www.mun.ca) • Full-time • St. John's, Newfoundland, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL`, `ML`, `Algorithm Design`  
+## Experience
+
+| | Organization | Role | Location | Technologies |
+|---|---|---|---|---|
+| <img src="logos/12.png" width="40"/> | [CAIR, Memorial University](https://www.mun.ca/research/cair/who-we-are/) | Project Manager Lead | St. John's, NL, CA | Python, Bash, SQL, ML, algorithm design, quantum computing, HPC, research data analysis |
+| <img src="logos/11.png" width="40"/> | [Memorial University of Newfoundland](https://www.mun.ca) | PhD Researcher | St. John's, NL, CA | Python, Bash, SQL, ML, algorithm design |
+| <img src="logos/10.png" width="40"/> | [Canadian Space Agency](https://www.asc-csa.gc.ca) | Data Scientist (Researcher) | Ottawa, ON, CA | Python, Bash, SQL |
+| <img src="logos/6.png" width="40"/> | [University of Essex](https://www.essex.ac.uk/) | Software Developer (Data Integration) | Colchester, UK | C#, .NET, Bash, SQL, Windows Server |
+| <img src="logos/1.png" width="40"/> | [BkoSoft](https://www.bkosoft.ch/) | Software Engineer | Zurich, CH | C#, .NET, SQL, Razor |
+| <img src="logos/5.png" width="40"/> | [Meta](https://www.meta.com/) | Technical Investigator | London, UK | SQL, JavaScript, Haskell, Hack, Unidash |
+| <img src="logos/3.png" width="40"/> | [Evolok Ltd](https://www.evolok.com/) | Java Developer | London, UK | Java, Spring Boot, SQL, MongoDB |
+| <img src="logos/2.png" width="40"/> | [AuthLab Ltd](https://authlab.io/) | Data Scientist | Sylhet, BD | Python, SQL, NoSQL, JavaScript, AWS, Bash |
+| <img src="logos/4.png" width="40"/> | [HEXit Ltd](https://hexit.com.bd) | Data Analyst | California, US | Python, SQL, JavaScript, AWS, Google Cloud |
+| <img src="logos/14.png" width="40"/> | [Apple](https://apple.com) | Product Design Engineering Intern | Shanghai, CN | Data modelling, Python |
+| <img src="logos/13.png" width="40"/> | [Mozilla](https://mozilla.org) | Rust Engineer | California, US | Rust, JavaScript, Python |
+| <img src="logos/15.png" width="40"/> | [Google](https://google.com) | Software Engineer Intern | San Francisco, US | Data science, data visualization, Google Cloud |
 
 ---
 
-[<img align="left" height="100px" width="100px" alt="Canadian Space Agency" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/10.png?raw=true"/>](https://www.asc-csa.gc.ca)  
-**Canadian Space Agency**  
-[**Data Scientist (Researcher)**](https://www.asc-csa.gc.ca) • Full-time • Ottawa, Ontario, CA  
-Languages & Technologies: `Python`, `Bash`, `SQL`  
+## Get in touch
 
----
-
-[<img align="left" height="100px" width="100px" alt="University of Essex" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/6.png?raw=true"/>](https://www.essex.ac.uk/)  
-**University of Essex**  
-[**Software Developer (Data Integration)**](https://www.essex.ac.uk/people/FARUK31407) • Full-time • Colchester, UK  
-Languages & Technologies: `C#`, `Bash`, `.NET`, `SQL`, `Windows Server`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="BkoSoft" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/1.png?raw=true"/>](https://www.bkosoft.ch/)  
-**BkoSoft**  
-[**Software Engineer**](https://www.bkosoft.ch/en/About-us) • Full-time • Zurich, CH  
-Languages & Technologies: `C#`, `SQL`, `.NET`, `Razor`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="Meta" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/5.png?raw=true"/>](https://www.meta.com/)  
-**Meta/Facebook**  
-[**Technical Investigator**](https://www.facebook.com/soft.me.uk) • Full-time • London, UK  
-Languages & Technologies: `SQL`, `JavaScript`, `Haskell`, `Hack`, `Unidash`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="Evolok Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/3.png?raw=true"/>](https://www.evolok.com/)  
-**Evolok Ltd**  
-[**Java Developer**](https://www.evolok.com/about) • Full-time • London, UK  
-Languages & Technologies: `Java`, `SQL`, `MongoDB`, `Spring Boot`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="AuthLab Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/2.png?raw=true"/>](https://authlab.io/)  
-**AuthLab Ltd**  
-[**Data Scientist**](https://authlab.io/about/#team) • Full-time • Sylhet, BD  
-Languages & Technologies: `SQL`, `JavaScript`, `NoSQL`, `AWS`, `Bash`, `Python`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="HEXit Ltd" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/4.png?raw=true"/>](https://hexit.com.bd)  
-**HEXit Ltd**  
-[**Data Analyst**](https://hexit.com.bd) • Full-time • California, US  
-Languages & Technologies: `SQL`, `JavaScript`, `Python`, `AWS`, `Google Cloud`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="Apple" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/14.png?raw=true"/>](https://apple.com)  
-**Apple**  
-[**Product Design Engineering Intern**](https://apple.com) • Full-time • Shanghai, CN  
-Languages & Technologies: `Data Modeling`, `Design Philosophy`, `Python`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="Mozilla" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/13.png?raw=true"/>](https://mozilla.org)  
-**Mozilla Inc**  
-[**Rust Engineer**](https://mozilla.org) • Full-time • California, US  
-Languages & Technologies: `Rust`, `JavaScript`, `Python`  
-
----
-
-[<img align="left" height="100px" width="100px" alt="Google" src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/15.png?raw=true"/>](https://google.com)  
-**Google**  
-[**Software Engineer Intern**](https://google.com) • Full-time • San Francisco, US  
-Languages & Technologies: `Data Visualization`, `Data Science`, `Data Analysis`, `Google Cloud`  
-
----
-
-### <img src="https://github.com/SOFTowaha/SOFTowaha/blob/main/logos/tech.gif" alt="Rocket" width="40" height="40"/>  Technologies & Tools
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sci%20Kit%20Learn%2C%20TensorFlow-green)  
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20NumPy%2C%20SQL-orange)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib%2C%20Seaborn%2C%20Plotly-purple)  
-![Statistics](https://img.shields.io/badge/Statistics-Statistical%20Analysis%2C%20Hypothesis%20Testing-yellow)  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Certified Ethical Hacker](https://img.shields.io/badge/CEH-222222?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-6DB33F?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF69B4?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![CUnit](https://img.shields.io/badge/CUnit-007ACC?style=flat)
-![CMocka](https://img.shields.io/badge/CMocka-222222?style=flat)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-555555?style=flat)
-![TCP/UDP](https://img.shields.io/badge/TCP/UDP-003545?style=flat)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![tcpdump](https://img.shields.io/badge/tcpdump-005571?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+I'm open to research collaborations and work on applied ML, computer vision and research computing. The best way to reach me is through [my website](https://www.soft.me.uk) or [LinkedIn](https://www.linkedin.com/in/sof/).
