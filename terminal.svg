@@ -8,15 +8,15 @@
 <rect width="860" height="316" rx="10" fill="#0D1117" stroke="#30363D"/>
 <path d="M0 10a10 10 0 0 1 10-10h840a10 10 0 0 1 10 10v26H0z" fill="#161B22"/>
 <circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#27C93F"/>
-<text x="430" y="23" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#8B949E">soft@cair: ~ — zsh</text>
-<text x="24" y="78" class="l" style="animation-delay:0.3s"><tspan fill="#39D353">soft@cair</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+<text x="430" y="23" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#8B949E">soft@soft.me.uk: ~ — zsh</text>
+<text x="24" y="78" class="l" style="animation-delay:0.3s"><tspan fill="#39D353">soft@soft.me.uk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
 <text x="24" y="104" class="l" style="animation-delay:0.9s"><tspan fill="#C9D1D9">Syed Omar Faruk Towaha</tspan></text>
-<text x="24" y="130" class="l" style="animation-delay:1.2s"><tspan fill="#39D353">soft@cair</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">cat roles.txt</tspan></text>
+<text x="24" y="130" class="l" style="animation-delay:1.2s"><tspan fill="#39D353">soft@soft.me.uk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">cat roles.txt</tspan></text>
 <text x="24" y="156" class="l" style="animation-delay:1.9s"><tspan fill="#C9D1D9">Data Scientist        @ Canadian Space Agency</tspan></text>
 <text x="24" y="182" class="l" style="animation-delay:2.2s"><tspan fill="#C9D1D9">Project Manager Lead  @ CAIR, Memorial University</tspan></text>
 <text x="24" y="208" class="l" style="animation-delay:2.6s"><tspan fill="#C9D1D9">PhD Researcher        @ Memorial University  (ML · CV · HPC)</tspan></text>
-<text x="24" y="234" class="l" style="animation-delay:2.9s"><tspan fill="#39D353">soft@cair</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">echo $FOCUS</tspan></text>
+<text x="24" y="234" class="l" style="animation-delay:2.9s"><tspan fill="#39D353">soft@soft.me.uk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">echo $FOCUS</tspan></text>
 <text x="24" y="260" class="l" style="animation-delay:3.5s"><tspan fill="#C9D1D9">drone imagery segmentation · GPU inference on HPC · research software</tspan></text>
-<text x="24" y="286" class="l" style="animation-delay:3.9s"><tspan fill="#39D353">soft@cair</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan></text>
-<rect x="150" y="271" width="10" height="19" fill="#39D353" class="c" style="animation-delay:3.9s"/>
+<text x="24" y="286" class="l" style="animation-delay:3.9s"><tspan fill="#39D353">soft@soft.me.uk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+<rect x="198" y="271" width="10" height="19" fill="#39D353" class="c" style="animation-delay:3.9s"/>
 </svg>
