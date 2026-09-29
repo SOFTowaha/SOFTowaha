@@ -159,7 +159,7 @@ stack: Python · SQL · NoSQL · JavaScript · AWS · Bash
 
 <img align="left" src="logos/4.png" width="88" height="88" alt="HEXit Ltd"/>
 
-**[HEXit Ltd](https://hexit.com.bd)**
+**[HEXit Ltd](https://hexit.ca)**
 ```yaml
 role:  Data Analyst
 where: California, US
